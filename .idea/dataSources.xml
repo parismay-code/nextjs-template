@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="verceldb@ep-old-poetry-a4zaf8w7-pooler.us-east-1.aws.neon.tech" uuid="b98ddfc3-fb09-4367-9a18-0f5f5a3d7230">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ep-old-poetry-a4zaf8w7-pooler.us-east-1.aws.neon.tech:5432/verceldb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
